@@ -1,13 +1,13 @@
-package com.design.patterns;
+package com.solid.principles;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaDesignPatternsApplication {
+public class SolidPrinciplesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JavaDesignPatternsApplication.class, args);
+		SpringApplication.run(SolidPrinciplesApplication.class, args);
 	}
 
 }

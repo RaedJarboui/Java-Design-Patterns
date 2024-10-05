@@ -8,11 +8,11 @@
 		<version>2.7.17</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.design.patterns</groupId>
-	<artifactId>Java-Design-Patterns</artifactId>
+	<groupId>com.solid.principles</groupId>
+	<artifactId>Solid-Principles</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Java-Design-Patterns</name>
-	<description>Spring Boot Project for implementing differents design patterns and solid principles</description>
+	<description>Spring Boot Project for implementing differents solid principles</description>
 	
 	<properties>
 		<java.version>11</java.version>
